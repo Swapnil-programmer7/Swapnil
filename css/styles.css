@@ -1,0 +1,157 @@
+h1 {
+  margin: 50px;
+  font-family: 'Great Vibes', cursive;
+  color: #66BFBF;
+  font-size: 5.625rem;
+}
+
+h2 {
+  margin-top: 0;
+  color: #66BFBF;
+  font-weight: normal;
+  font-size: 2rem;
+}
+
+h3 {
+  color: #11999E;
+  font-weight: 200;
+}
+
+p{
+  color: #40514E;
+}
+
+hr{
+  border-style:  dotted none none;
+  width: 8%;
+  border-width: 10px;
+  margin: 40px auto;
+  border-color: #EAF6F6;
+}
+
+body {
+  text-align: center;
+  margin: 0;
+  font-family: 'Playfair Display', serif;
+}
+
+head {
+  font-family: 'Lato', sans-serif;
+}
+
+.names {
+  line-height: 1.5;
+}
+
+.call-me{
+  line-height: 0.4;
+}
+
+.top-container {
+  padding-top: 100px;
+  background-color: #E4F9F5;
+  display: block;
+  position: relative;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  color: white;
+}
+
+.footer-link{
+  text-decoration: none;
+  color: #11999E;
+  margin: 10px 60px;
+}
+.copyright{
+  color: white;
+  line-height: 0.5;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+
+.btn{
+  display: block;
+  margin: 50px auto;
+  background: #66BFBF;
+  height: 27px;
+  width: 150px;
+  color: white;
+  text-align: center;
+
+  border-radius: 4px;
+}
+a.btn{
+  text-decoration: none;
+}
+.profile{
+  margin: 100px auto;
+  width: 50%;
+
+}
+
+.skills {
+  align-items: center;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+.skill-row {
+  margin: 125px auto 125px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+
+
+
+  .top_cloud {
+    position: absolute;
+    top: 50px;
+    right: 250px;
+  }
+
+  .bottom_cloud {
+    position: absolute;
+    top: 450px;
+    left: 250px;
+  }
+  .profile-pic{
+    width: 40%;
+    margin: 50px auto;
+  }
+
+  .mail{
+    width: 7%;
+   margin-bottom: 20px;
+  }
+
+  .prgrmng-img {
+    width: 25%;
+    margin-right: 30px;
+    float: left;
+  }
+
+.Mountain{
+  height: 375px;
+}
+
+  .ptsd-img {
+    width: 25%;
+    margin-left: 30px;
+    float: right;
+  }
+
+  .cook-img {
+    width: 25%;
+    margin-right: 30px;
+    float: left;
+  }
+  .write-img{
+  width: 25%;
+  margin-left: 30px;
+  float: right;
+}
